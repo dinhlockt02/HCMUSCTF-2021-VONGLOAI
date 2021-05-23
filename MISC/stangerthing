@@ -1,1 +1,11 @@
+# StrangerThing
 
+ssh ctf@61.28.237.24 -p30401
+pass hcmus-ctf
+
+cat flag1.txt 		=> HCMUS-CTF{this
+cat -- '-flag 2.txt' 		=> _is_used_to_test
+ls ./secret/ -a => .flag3.txt
+cat ./secret/.flag3.txt	=> _linux_command_line}
+
+=> HCMUS-CTF{this_is_used_to_test_linux_command_line}
