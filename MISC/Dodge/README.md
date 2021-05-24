@@ -6,5 +6,5 @@ Ta có thể sử dụng lệnh shell thay cho cat
     echo $line;
   done <flag.txt
 ```
-flag: <br/>
+flag: HCMUS-CTF{You_know_some_command_line_stuff}<br/>
 Tham khảo: https://jarv.org/posts/cat-without-cat/
